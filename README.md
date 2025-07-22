@@ -1,4 +1,4 @@
-##AWS
+## AWS
 
 ## What is AWS?
 Amazon Web Services (AWS) is a cloud platform offered by Amazon that lets people and companies use IT services like storage, servers, and databases through the internet. 
